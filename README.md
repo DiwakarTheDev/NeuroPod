@@ -92,14 +92,11 @@ python ai_podcast.py
 This project is licensed under the MIT License – feel free to use, modify, and contribute!
 
 
----
+
 
 💡 Contributing
 
 🎯 Contributions are welcome! If you’d like to improve the project, feel free to fork the repo and submit a pull request.
-
-
----
 
 📬 Contact & Support
 
@@ -108,17 +105,4 @@ For feedback, questions, or feature requests, reach out via:
 🌐 GitHub: DiwakarTheDev/NeuroPod
 
 
----
-
 🔥 Star this repository if you find it useful! ⭐
-
----
-
-### **📌 How to Use It?**  
-1️⃣ **Copy the above markdown**.  
-2️⃣ **Paste it into `README.md`** in your GitHub repository.  
-3️⃣ **Commit & Push to GitHub**:  
-   ```sh
-   git add README.md
-   git commit -m "Added project README"
-   git push origin main
