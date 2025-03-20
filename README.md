@@ -46,7 +46,7 @@ Ensure these files are available in the project folder:
 
 ### 🔹 Step 4: Run the AI Podcast  
 ```sh  
-python ai_podcast.py  
+python PodcastAi.py  
 ```
 
 ### 🔹 Step 5: Optional Customization  
