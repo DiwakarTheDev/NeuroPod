@@ -1,0 +1,7 @@
+gtts
+pygame
+speechrecognition
+transformers
+torch
+pymupdf
+pyaudio
